@@ -1,0 +1,1 @@
+﻿<php "creat by : <a href='http://google.com'>@loadiing98</a>" ?>
